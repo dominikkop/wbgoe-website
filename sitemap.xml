@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://www.wbgoe.at/</loc>
+    <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.wbgoe.at/"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.wbgoe.at/fa"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wbgoe.at/"/>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.wbgoe.at/fa</loc>
+    <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.wbgoe.at/"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.wbgoe.at/fa"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wbgoe.at/"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wbgoe.at/regeln</loc>
+    <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.wbgoe.at/regeln"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.wbgoe.at/fa/regeln"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wbgoe.at/regeln"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wbgoe.at/fa/regeln</loc>
+    <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.wbgoe.at/regeln"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.wbgoe.at/fa/regeln"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wbgoe.at/regeln"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wbgoe.at/werbung</loc>
+    <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.wbgoe.at/werbung"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.wbgoe.at/fa/werbung"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wbgoe.at/werbung"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wbgoe.at/fa/werbung</loc>
+    <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.wbgoe.at/werbung"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.wbgoe.at/fa/werbung"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wbgoe.at/werbung"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wbgoe.at/kontakt</loc>
+    <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.wbgoe.at/kontakt"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.wbgoe.at/fa/kontakt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wbgoe.at/kontakt"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wbgoe.at/fa/kontakt</loc>
+    <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.wbgoe.at/kontakt"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.wbgoe.at/fa/kontakt"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wbgoe.at/kontakt"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wbgoe.at/sicherheit</loc>
+    <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.wbgoe.at/sicherheit"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.wbgoe.at/fa/sicherheit"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wbgoe.at/sicherheit"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wbgoe.at/fa/sicherheit</loc>
+    <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.wbgoe.at/sicherheit"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.wbgoe.at/fa/sicherheit"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wbgoe.at/sicherheit"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wbgoe.at/impressum</loc>
+    <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.wbgoe.at/impressum"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.wbgoe.at/fa/impressum"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wbgoe.at/impressum"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wbgoe.at/fa/impressum</loc>
+    <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.wbgoe.at/impressum"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.wbgoe.at/fa/impressum"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wbgoe.at/impressum"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wbgoe.at/datenschutz</loc>
+    <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.wbgoe.at/datenschutz"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.wbgoe.at/fa/datenschutz"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wbgoe.at/datenschutz"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.wbgoe.at/fa/datenschutz</loc>
+    <xhtml:link rel="alternate" hreflang="de-AT" href="https://www.wbgoe.at/datenschutz"/>
+    <xhtml:link rel="alternate" hreflang="fa" href="https://www.wbgoe.at/fa/datenschutz"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.wbgoe.at/datenschutz"/>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

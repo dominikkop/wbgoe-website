@@ -1,0 +1,1 @@
+import{r as c,s as f,g as l,a as g}from"./scrub.s1PfFe9s.js";const t=document.getElementById("fragen");if(t&&!c()){const n=Array.from(t.querySelectorAll("[data-frage]"));f(t,s=>{n.forEach((a,o)=>{const r=.05+o*.035,e=l(g(s,r,r+.12));a.style.opacity=String(e),a.style.transform=`translate3d(${((1-e)*26).toFixed(1)}px, 0, 0)`})},"durchlauf")}

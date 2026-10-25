@@ -1,0 +1,1 @@
+import{r as o,s as t}from"./scrub.s1PfFe9s.js";if(!o())for(const r of Array.from(document.querySelectorAll("[data-kopf-medaillon]")))t(r.parentElement,e=>{r.style.transform=`rotate(${(e*30).toFixed(2)}deg)`},"durchlauf");

@@ -1,0 +1,1 @@
+import{r as s,s as o,k as l}from"./scrub.s1PfFe9s.js";if(!s())for(const e of Array.from(document.querySelectorAll("[data-faden]")))e.style.setProperty("--faden","0"),e.style.setProperty("--bluete","0"),o(e,r=>{const t=l((r-.15)/.5);e.style.setProperty("--faden",t.toFixed(3)),e.style.setProperty("--bluete",t>.85?"1":"0")},"durchlauf");
